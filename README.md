@@ -90,7 +90,7 @@ Tech Stack: Python | SQL | Power BI
 
 4. **Dashboard:**
 
-   * Open the Power BI file (`Retail_Customer_Behavior_Analysis.pbix`) to explore insights.
+   * Open the Power BI file (`customer_behavior_dashboard.pbix`) to explore insights.
 
 ---
 
