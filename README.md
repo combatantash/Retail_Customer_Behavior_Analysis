@@ -94,5 +94,5 @@ Tech Stack: Python | SQL | Power BI
 
 ---
 
-Author
+Author:
 Aishwarya Singh
